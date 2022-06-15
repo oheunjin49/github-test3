@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="635b8fa2-6332-4b77-9fb4-dec91a63be56" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/..//DongSungSI-20220614T003336Z-001/DongSungSI/src/main/java/com/example/dongsungsi/dao/ComplainDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/..//DongSungSI-20220614T003336Z-001/DongSungSI/src/main/java/com/example/dongsungsi/service/ComplainServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/..//Spring/CustomerSpring/src/main/resources/mappers/Customer.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/..//Spring/DongSungUploadDB/src/main/java/com/example/dongsunguploaddb/controller/FileDBController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/..//Spring/HelloGradle/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/..//Spring/HelloGradle/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/..//Spring/HelloGradle/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/..//Spring/HelloGradle/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/..//Spring/TaeGyungSite/src/main/java/com/example/taegyungsite/service/CommentServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/..//Spring/TaeGyungSite/src/main/resources/logback-spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/..//Spring/TaeGyungSite/src/main/resources/mappers/Board.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/..//Spring/boot_exam/src/main/java/com/example/boot_exam/model/CommonDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/..//Spring/chapter07/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/..//Spring/chapter07/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/..//Spring/chapter07/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/..//Spring/chapter07/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/..//Spring/myService/src/main/java/com/example/myservice/model/Dept2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/..//Spring/myService/src/main/java/com/example/myservice/service/Dept2Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/..//Spring/myService/src/main/java/com/example/myservice/service/Dept2ServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/..//README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/..//html/work/HTML5/s)10-1.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/DongSungSI">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2AXregzp1xBBgTvt8wzcNTKnIfd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/DongSungSI-20220614T003336Z-001&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;5b782cdf393d0458bc8d44ff911454d0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\DongSungSI-20220614T003336Z-001\DongSungSI\src\main\resources\static" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="DongSungSI-20220614T003336Z-001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="DongSungSI-20220614T003336Z-001" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DongSungSiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="DongSungSI.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.dongsungsi.DongSungSiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="635b8fa2-6332-4b77-9fb4-dec91a63be56" name="변경" comment="" />
+      <created>1655166868160</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655166868160</updated>
+      <workItem from="1655166869691" duration="159000" />
+      <workItem from="1655167046492" duration="736000" />
+      <workItem from="1655167812042" duration="1851000" />
+      <workItem from="1655170255216" duration="87000" />
+      <workItem from="1655170355489" duration="46000" />
+      <workItem from="1655170409127" duration="11540000" />
+      <workItem from="1655250546873" duration="12222000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DongSungSI/src/main/java/com/example/dongsungsi/controller/WebConfig.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

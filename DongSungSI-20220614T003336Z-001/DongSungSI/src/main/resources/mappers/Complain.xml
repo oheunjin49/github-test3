@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.example.dongsungsi.dao.ComplainDao">
+
+    <select id="findAll"
+            resultType="com.example.dongsungsi.model.Complain">
+        SELECT
+             NO
+            ,TITLE
+            ,CONTENET
+            ,TARGET_PAGE
+            ,WRITER
+             ,DELETE_YN
+             ,INSERT_TIME
+             ,UPDATE_TIME
+             ,DELETE_TIME
+        FROM TB_COMPLAIN_OH
+        WHERE DELETE_YN = 'N'
+    </select>
+
+
+    <insert id="insertCustomer"
+            parameterType="com.example.dongsungsi.model.Complain">
+        INSERT INTO TB_COMPLAIN_OH(
+        NO
+        ,TITLE
+        ,CONTENET
+        ,TARGET_PAGE
+        ,WRITER
+        ,INSERT_TIME
+        ) VALUES (
+        SQ_COMPLAIN.NEXTVAL
+        ,#{title}
+        ,#{content}
+        ,#{target_page}
+        ,#{writer}
+        ,TO_CHAR(SYSDATE, 'YYYY-MM-DD HH24:MI:SS')
+        )
+
+        <selectKey keyProperty="title" resultType="String" order="AFTER">
+            SELECT SQ_COMPLAIN_OH.CURRVAL FROM DUAL
+        </selectKey>
+
+    </insert>
+
+    <update id="updateCustomer"
+            parameterType="com.example.dongsungsi.model.Complain">
+        UPDATE TB_COMPLAIN_OH
+        SET
+            NO = #{no}
+          ,TITLE  = #{title}
+          ,CONTENT  = #{content}
+          ,TARGET_PAGE = #{target_page}
+          ,WRITER = #{wrier}
+              ,UPDATE_TIME=TO_CHAR(SYSDATE, 'YYYY-MM-DD HH24:MI:SS')
+        WHERE
+            ID = #{id}
+    </update>
+
+    <update id="deleteCustomer" parameterType="long">
+        UPDATE TB_COMPLAIN_OH
+        SET
+            DELETE_YN = 'Y'
+          ,DELETE_TIME = TO_CHAR(SYSDATE, 'YYYY-MM-DD HH24:MI:SS')
+        WHERE
+            TITLE = #{title}
+    </update>
+
+    <update id="deleteAll">
+        UPDATE TB_COMPLAIN_OH
+        SET
+            DELETE_YN = 'Y'
+          ,DELETE_TIME = TO_CHAR(SYSDATE, 'YYYY-MM-DD HH24:MI:SS')
+    </update>
+
+</mapper>
