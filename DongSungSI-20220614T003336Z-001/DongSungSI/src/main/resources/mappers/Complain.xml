@@ -51,7 +51,7 @@
             NO = #{no}
           ,TITLE  = #{title}
           ,CONTENT  = #{content}
-          ,TARGET_PAGE = #{target_page}
+          ,TARGET_PAGE = #{targetPage}
           ,WRITER = #{wrier}
               ,UPDATE_TIME=TO_CHAR(SYSDATE, 'YYYY-MM-DD HH24:MI:SS')
         WHERE

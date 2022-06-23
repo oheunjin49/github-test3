@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="114b66e3-1142-4871-8728-d232903080ac" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/blog_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DongSungSI-20220614T003336Z-001/.idea/DongSungSI-20220614T003336Z-001.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DongSungSI-20220614T003336Z-001/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TaeGyungSI-20220617T063238Z-001/.idea/TaeGyungSI-20220617T063238Z-001.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TaeGyungSI-20220620T000545Z-001/.idea/TaeGyungSI-20220620T000545Z-001.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end-20220609T015934Z-001/front-end/src/assets/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end-20220609T015934Z-001/front-end/src/assets/img/bg-signup.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end-20220609T015934Z-001/front-end/src/assets/img/demo-image-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end-20220609T015934Z-001/front-end/src/assets/img/demo-image-02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end-20220609T015934Z-001/front-end/src/assets/img/ipad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end-20220609T015934Z-001/front-end/src/assets/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end-20220609T015934Z-001/front-end/src/components/customer/AddCustomer.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end-20220609T015934Z-001/front-end/src/components/customer/CustomerList.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end-20220609T015934Z-001/front-end/src/components/customer/EditCustomer.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end-20220609T015934Z-001/front-end/src/components/home/FooterCom.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end-20220609T015934Z-001/front-end/src/components/home/HeaderCom.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end-20220609T015934Z-001/front-end/src/components/home/SectionCom.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end-20220609T015934Z-001/front-end/src/services/CustomerDataService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end-20220617T001313Z-001/.idea/front-end-20220617T001313Z-001.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end-20220617T001313Z-001/front-end/src/components/AddTutorial.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end-20220617T001313Z-001/front-end/src/components/Tutorial.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end-20220617T001313Z-001/front-end/src/components/TutorialsList.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end-20220617T001313Z-001/front-end/src/http-auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end-20220617T001313Z-001/front-end/src/http-common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end-20220617T001313Z-001/front-end/src/models/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end-20220617T001313Z-001/front-end/src/services/TutorialDataService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end-20220617T001313Z-001/front-end/src/services/auth/AuthHeader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end-20220617T001313Z-001/front-end/src/services/auth/AuthService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end-20220617T001313Z-001/front-end/src/services/auth/UserDataService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end-20220617T001313Z-001/front-end/src/store/AuthModule.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end-20220617T001313Z-001/front-end/src/views/Login.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end-20220617T001313Z-001/front-end/src/views/Profile.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end-20220617T060123Z-001/.idea/front-end-20220617T060123Z-001.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end-20220617T060123Z-001/front-end/src/components/AddTutorial.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end-20220617T060123Z-001/front-end/src/components/Tutorial.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end-20220617T060123Z-001/front-end/src/components/TutorialsList.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end-20220617T060123Z-001/front-end/src/http-auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end-20220617T060123Z-001/front-end/src/http-common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end-20220617T060123Z-001/front-end/src/models/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end-20220617T060123Z-001/front-end/src/services/TutorialDataService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end-20220617T060123Z-001/front-end/src/services/auth/AuthHeader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end-20220617T060123Z-001/front-end/src/services/auth/AuthService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end-20220617T060123Z-001/front-end/src/services/auth/UserDataService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end-20220617T060123Z-001/front-end/src/store/AuthModule.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end-20220617T060123Z-001/front-end/src/views/Login.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end-20220617T060123Z-001/front-end/src/views/Profile.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end-20220617T060123Z-001/front-end/src/views/Register.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DongSungSI-20220614T003336Z-001/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DongSungSI-20220614T003336Z-001/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DongSungSI-20220614T003336Z-001/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DongSungSI-20220614T003336Z-001/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DongSungSI-20220614T003336Z-001/DongSungSI/src/main/resources/mappers/Complain.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DongSungSI-20220614T003336Z-001/DongSungSI/src/main/resources/mappers/Complain.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end-20220609T015934Z-001/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/front-end-20220609T015934Z-001/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end-20220609T015934Z-001/front-end/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/front-end-20220609T015934Z-001/front-end/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end-20220609T015934Z-001/front-end/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/front-end-20220609T015934Z-001/front-end/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end-20220609T015934Z-001/front-end/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/front-end-20220609T015934Z-001/front-end/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end-20220609T015934Z-001/front-end/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/front-end-20220609T015934Z-001/front-end/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end-20220609T015934Z-001/front-end/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/front-end-20220609T015934Z-001/front-end/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end-20220609T015934Z-001/front-end/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end-20220609T015934Z-001/front-end/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/front-end-20220609T015934Z-001/front-end/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end-20220609T015934Z-001/front-end/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/front-end-20220609T015934Z-001/front-end/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end-20220609T015934Z-001/front-end/src/views/AboutView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end-20220609T015934Z-001/front-end/src/views/HomeView.vue" beforeDir="false" afterPath="$PROJECT_DIR$/front-end-20220609T015934Z-001/front-end/src/views/HomeView.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end-20220617T001313Z-001/front-end/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/front-end-20220617T001313Z-001/front-end/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end-20220617T001313Z-001/front-end/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/front-end-20220617T001313Z-001/front-end/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end-20220617T001313Z-001/front-end/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/front-end-20220617T001313Z-001/front-end/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end-20220617T001313Z-001/front-end/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/front-end-20220617T001313Z-001/front-end/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end-20220617T001313Z-001/front-end/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end-20220617T001313Z-001/front-end/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/front-end-20220617T001313Z-001/front-end/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end-20220617T001313Z-001/front-end/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/front-end-20220617T001313Z-001/front-end/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end-20220617T001313Z-001/front-end/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/front-end-20220617T001313Z-001/front-end/src/store/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end-20220617T001313Z-001/front-end/src/views/AboutView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end-20220617T001313Z-001/front-end/src/views/HomeView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end-20220617T001313Z-001/front-end/vue.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/front-end-20220617T001313Z-001/front-end/vue.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end-20220617T060123Z-001/front-end/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/front-end-20220617T060123Z-001/front-end/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end-20220617T060123Z-001/front-end/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/front-end-20220617T060123Z-001/front-end/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end-20220617T060123Z-001/front-end/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/front-end-20220617T060123Z-001/front-end/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end-20220617T060123Z-001/front-end/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/front-end-20220617T060123Z-001/front-end/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end-20220617T060123Z-001/front-end/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end-20220617T060123Z-001/front-end/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/front-end-20220617T060123Z-001/front-end/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end-20220617T060123Z-001/front-end/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/front-end-20220617T060123Z-001/front-end/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end-20220617T060123Z-001/front-end/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/front-end-20220617T060123Z-001/front-end/src/store/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end-20220617T060123Z-001/front-end/src/views/AboutView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end-20220617T060123Z-001/front-end/src/views/HomeView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end-20220617T060123Z-001/front-end/vue.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/front-end-20220617T060123Z-001/front-end/vue.config.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/TaeGyungSI-20220620T000545Z-001/TaeGyungSI">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ArfRS78u3CjEMRSUpYLTVx2lMl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="114b66e3-1142-4871-8728-d232903080ac" name="변경" comment="" />
+      <created>1655772615789</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655772615789</updated>
+      <workItem from="1655772617368" duration="10000" />
+      <workItem from="1655772654184" duration="112000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
