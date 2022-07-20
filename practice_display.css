@@ -1,0 +1,8 @@
+#firstSentence{display: block}
+#secondSentence{display: block}
+#thridSentence{display: block}
+/* display: inline : 줄 바뀜 안됨, 너비 높이 속성 지정 안됨*/
+/* display: none : 공간을 없애고 보이지 않게 함 */
+/* display: block : 줄 바뀜 */
+/* display: inline-block : inline과 block 중간, 글자 너비 높이 지정 가능, margin,padding속성은 상하좌우 지정가능 */
+/* visiblitiy:hidden : 공간을 남기고 숨김*/
